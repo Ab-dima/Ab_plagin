@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "Ab_plagin",
+    "description": "Extensions for Zhelezno",
+    "author": "Abankin Dmitry",
+    "author_profile": "https://github.com/Ab-dima",
+    "url": "https://github.com/Ab-dima/Ab_plagin.git",
+    "website": "https://github.com/gtalarico/pyrevitplus",
+    "image": "",
+    "dependencies": []
+}
